@@ -1,0 +1,4 @@
+app_name: secure-demo-app
+version: 1.0
+env_required_secret: true
+
