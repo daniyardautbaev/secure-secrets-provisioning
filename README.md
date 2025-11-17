@@ -26,9 +26,6 @@ source venv/bin/activate
 
 pip install -r app/requirements.txt
 ```
-
-
-Создаём .env в корне проекта (не пушить в GitHub):
 ```
 
 ENV_API_KEY=API_KEY
@@ -41,3 +38,4 @@ VAULT_TOKEN=Token
 
 python3 app/app.py
 ```
+
